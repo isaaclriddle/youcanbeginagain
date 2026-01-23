@@ -17,8 +17,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'You Can Begin Again: A Trans Video Game Archive'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'You Can Begin Again'
+description:      'A Trans Video Game Archive'
 url:              'https://isaaclriddle.github.io'
 baseurl:          '/youcanbeginagain'
 copyright:        'Example copyright org, 2023'
