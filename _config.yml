@@ -8,7 +8,7 @@
 # ~> https://learnxinyminutes.com/docs/yaml/
 #
 #
-# Questions ?
+# Questions ?nn
 # ~> https://minicomp.github.io/wiki/#/
 #
 # ---------------------------------------------------------------
@@ -19,8 +19,8 @@
 
 title:            'Wax'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://github.com/isaaclriddle/youcanbeginagain'
+baseurl:          '/youcanbeginagain'
 copyright:        'Example copyright org, 2023'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
