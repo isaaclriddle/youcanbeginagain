@@ -115,8 +115,8 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+  - label: 'Resources'
+    link: '/resources/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
