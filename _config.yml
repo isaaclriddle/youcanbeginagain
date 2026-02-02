@@ -99,10 +99,8 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Why This Archive?'
+      - label: 'About the Archive'
         link: '/about/'
-      - label: 'Archival Theory'
-        link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
