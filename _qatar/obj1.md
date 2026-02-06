@@ -1,5 +1,5 @@
 ---
-pid: obj1
+pid: 168696082_soren_avatar
 artist: Al-Hajj Hafiz Muhammad Nuri
 location: Turkey
 label: The Dala'il al-Khayrat of al-Juzuli
