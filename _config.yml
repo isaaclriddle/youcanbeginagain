@@ -75,17 +75,13 @@ collections:
 # an `index` file to write it to and some `collections` for it to index
 # and running `$ bundle exec rake wax:search` .
 
-collections:
-  submissionimg:
-    output: true
-    layout: 'submissionimg_item'
-    metadata:
-      source: 'submissionimg.csv'
-    images:
-      source: 'raw_images/submissionimg'
-    search:
-      content: false
-      fields:
+search:
+  main:
+    index: '/search/index.json' # file the index will get written to
+    collections:
+      submissionimg:
+        content: false # whether or not to index page content
+        fields: # the metadata fields to index
         - label
         - submitter
         - submitter_pronoun
