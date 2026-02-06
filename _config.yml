@@ -47,23 +47,26 @@ collections:
   exhibits:
     output: true
   submissionimg:
-    output: true 
+    output: true
     layout: 'submissionimg_item'
     metadata:
-      source: 'submissionimg.csv'
-      id: 'pid'
+      source: 'submissionimg.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/submissionimg'
-    search:
-      enabled: true
-      index: 'search/submissionimg.json'
-      fields:
-        - label
-        - submitter
-        - submitter_pronoun
-        - game
-        - avatar_pronouns
-        - object_type
+      source: 'raw_images/submissionimg' # path to the directory of images within `_data`
+
+search:
+  main:
+    index: 'search/submissionimg.json'
+    collections:
+      submissionimg:
+        content: false
+        fields:
+          - label
+          - submitter
+          - submitter_pronoun
+          - game
+          - avatar_pronouns
+          - object_type
 
 
 # --------------------------------------------------------------
