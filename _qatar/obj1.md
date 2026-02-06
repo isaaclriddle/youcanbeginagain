@@ -1,5 +1,5 @@
 ---
-pid: 168696082_soren_avatar
+pid: obj1
 artist: Al-Hajj Hafiz Muhammad Nuri
 location: Turkey
 label: The Dala'il al-Khayrat of al-Juzuli
@@ -10,6 +10,7 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/submissionimg/168696082_soren_avatar.png"
-full: ""/img/submissionimg/168696082_soren_avatar.png"
+thumbnail: "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj1/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj1/manifest.json"
 ---
