@@ -68,6 +68,7 @@ collections:
       source: 'raw_images/submissionimg' # path to the directory of images within `_data`
     search:
       enabled: true
+      index: 'search/submissionimg.json'
       fields:
         - label
         - submitter
