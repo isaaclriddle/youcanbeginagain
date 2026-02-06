@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/200052971_bungus_avatar.json",
+  "label": "front",
+  "width": 410,
+  "height": 590,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/200052971_bungus_avatar/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/200052971_bungus_avatar.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/200052971_bungus_avatar/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/200052971_bungus_avatar",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 205,
+        "height": 295
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/200052971_bungus_avatar.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

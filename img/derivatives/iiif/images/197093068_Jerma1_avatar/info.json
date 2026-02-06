@@ -1,0 +1,45 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/197093068_Jerma1_avatar",
+  "protocol": "http://iiif.io/api/image",
+  "width": 1602,
+  "height": 652,
+  "sizes": [
+    {
+      "width": 1602,
+      "height": 652
+    },
+    {
+      "width": 250,
+      "height": 102
+    },
+    {
+      "width": 1140,
+      "height": 464
+    }
+  ],
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "supports": [
+        "cors",
+        "sizeByWhListed",
+        "baseUriRedirect"
+      ]
+    }
+  ],
+  "tiles": [
+    {
+      "width": 512,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ]
+}
