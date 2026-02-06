@@ -59,13 +59,14 @@ kramdown:
 collections:
   exhibits:
     output: true
-  submissionimg: # name of collection
-    output: true # makes sure pages are output as html files
-    layout: 'submissionimg_item' # the layout for the pages to use
+  submissionimg:
+    output: true 
+    layout: 'submissionimg_item'
     metadata:
-      source: 'submissionimg.csv' # path to the metadata file within `_data`
+      source: 'submissionimg.csv'
+      id: 'pid'
     images:
-      source: 'raw_images/submissionimg' # path to the directory of images within `_data`
+      source: 'raw_images/submissionimg'
     search:
       enabled: true
       index: 'search/submissionimg.json'
