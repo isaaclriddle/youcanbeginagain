@@ -120,8 +120,4 @@ footer:
       link: 'https://minicomp.github.io/wiki/wax/'
   logos:
     - img: '/img/logo.png'
-
-search:
-  main:
-    enabled: true
 # FIN
