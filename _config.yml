@@ -121,4 +121,7 @@ footer:
   logos:
     - img: '/img/logo.png'
 
+search:
+  main:
+    enabled: true
 # FIN
