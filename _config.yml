@@ -66,21 +66,16 @@ collections:
       source: 'submissionimg.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/submissionimg' # path to the directory of images within `_data`
+    search:
+      enabled: true
+      fields:
+        - label
+        - submitter
+        - submitter_pronoun
+        - game
+        - avatar_pronouns
+        - object_type
 
-search:
-  main:
-    enabled: true
-    index: 'search/index.json'
-    collections:
-      submissionimg:
-        content: false
-        fields:
-          - label
-          - submitter
-          - submitter_pronoun
-          - game
-          - avatar_pronouns
-          - object_type
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
