@@ -66,7 +66,7 @@ collections:
       source: 'submissionimg.csv' # path to the metadata file within `_data`
     images:
       source: 'raw_images/submissionimg' # path to the directory of images within `_data`
-    search:
+    search: # <-- 2 spaces, aligned with metadata/images
       content: false
       fields:
         - label
@@ -76,14 +76,6 @@ collections:
         - avatar_pronouns
         - object_type
 
-# --------------------------------------------------------------
-# SEARCH INDEX SETTINGS
-# --------------------------------------------------------------
-# You can create multiple search indexes below (though only one is
-# recommended!) by specifying
-# an `index` file to write it to and some `collections` for it to index
-# and running `$ bundle exec rake wax:search`
-
 search:
   main:
     index: '/search/index.json' # file the index will get written to
@@ -91,12 +83,12 @@ search:
       submissionimg:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-        - label
-        - submitter
-        - submitter_pronoun
-        - game
-        - avatar_pronouns
-        - object_type
+          - label
+          - submitter
+          - submitter_pronoun
+          - game
+          - avatar_pronouns
+          - object_type
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
 # --------------------------------------------------------------
