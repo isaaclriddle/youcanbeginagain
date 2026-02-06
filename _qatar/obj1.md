@@ -10,6 +10,6 @@ source: https://commons.wikimedia.org/wiki/File:Al-Hajj_Hafiz_Muhammad_Nuri,_Tur
 order: '00'
 layout: qatar_item
 collection: qatar
-thumbnail: "/img/submissionimages/168696082_soren_avatar/full/250,/0/default.jpg"
-full: ""/img/submissionimages/168696082_soren_avatar/full/1140,/0/default.jpg"
+thumbnail: "/img/submissionimg/168696082_soren_avatar/full/250,/0/default.jpg"
+full: ""/img/submissionimg/168696082_soren_avatar/full/1140,/0/default.jpg"
 ---
