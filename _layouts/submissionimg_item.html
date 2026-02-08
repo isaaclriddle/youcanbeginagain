@@ -1,5 +1,5 @@
 ---
-layout: generic_collection_item
+layout: default
 pagination: true
 meta:
   - label: 'Label'
@@ -19,3 +19,30 @@ meta:
   - label: 'Image Type'
     value: object_type
 ---
+
+<h3 alt="{{ page.label | escape }}" class='item-label'>{{ page.label }}</h3>
+<div class='item-view'>
+  <span class='pagination-link' id='prevlink'></span>
+
+  {% if page.manifest.size > 0 %}
+    {% include osd_iiif_image_viewer.html manifest=page.manifest %}
+  {% elsif page.full.size > 0 %}
+    {% include simple_image_viewer.html full_image=page.full %}
+  {% endif %}
+  
+  <span class='pagination-link' id='nextlink'></span>
+</div>
+
+{% unless layout.pagination == false %}
+  {% include item_pagination.html %}
+{% endunless %}
+
+{% if layout.meta.size %}
+  {% assign metadata = layout.meta %}
+{% elsif page.meta.size %}
+  {% assign metadata = page.meta %}
+{% endif %}
+
+{% if metadata.size %}
+  {% include submissionimg.html meta=metadata %}
+{% endif %}
