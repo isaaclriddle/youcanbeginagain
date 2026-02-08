@@ -18,4 +18,7 @@ object_type: Screenshot
 order: '5'
 layout: submissionimg_item
 collection: submissionimg
+thumbnail: "/img/derivatives/simple/168817799_stellaria_avatar/thumbnail.png"
+full: "/img/derivatives/simple/168817799_stellaria_avatar/full.png"	
+manifest: "/img/derivatives/iiif/168817799_stellaria_avatar/manifest.json"
 ---
