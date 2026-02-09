@@ -35,4 +35,7 @@ object_type: Screenshot
 order: '17'
 layout: submissionimg_item
 collection: submissionimg
+thumbnail: "/img/derivatives/simple/197544277_quail_avatar/thumbnail.png"
+full: "/img/derivatives/simple/197544277_quail_avatar/full.png"	
+manifest: "/img/derivatives/iiif/197544277_quail_avatar/manifest.json"
 ---
