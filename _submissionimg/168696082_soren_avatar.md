@@ -30,7 +30,7 @@ object_type: Screenshot
 order: '2'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/168696082_soren_avatar/thumbnail.JPG"
-full: "/img/derivatives/simple/168696082_soren_avatar/full.JPG"	
+thumbnail: "/img/derivatives/simple/168696082_soren_avatar/thumbnail.jpg"
+full: "/img/derivatives/simple/168696082_soren_avatar/full.jpg"	
 manifest: "/img/derivatives/iiif/168696082_soren_avatar/manifest.json"
 ---

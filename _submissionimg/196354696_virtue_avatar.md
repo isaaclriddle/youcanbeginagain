@@ -12,7 +12,7 @@ object_type: Screenshot
 order: '14'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/196354696_virtue_avatar/thumbnail.JPG"
-full: "/img/derivatives/simple/196354696_virtue_avatar/full.JPG"	
+thumbnail: "/img/derivatives/simple/196354696_virtue_avatar/thumbnail.jpg"
+full: "/img/derivatives/simple/196354696_virtue_avatar/full.jpg"	
 manifest: "/img/derivatives/iiif/196354696_virtue_avatar/manifest.json"
 ---

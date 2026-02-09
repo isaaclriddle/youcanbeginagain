@@ -25,7 +25,7 @@ object_type: Screenshot
 order: '8'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/169141966_Damascus_avatar/thumbnail.JPG"
-full: "/img/derivatives/simple/169141966_Damascus_avatar/full.JPG"	
+thumbnail: "/img/derivatives/simple/169141966_Damascus_avatar/thumbnail.jpg"
+full: "/img/derivatives/simple/169141966_Damascus_avatar/full.jpg"	
 manifest: "/img/derivatives/iiif/169141966_Damascus_avatar/manifest.json"
 ---

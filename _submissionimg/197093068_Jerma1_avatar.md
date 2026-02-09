@@ -16,7 +16,7 @@ object_type: Screenshot
 order: '15'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/197093068_Jerma1_avatar/thumbnail.JPG"
-full: "/img/derivatives/simple/197093068_Jerma1_avatar/full.JPG"	
+thumbnail: "/img/derivatives/simple/197093068_Jerma1_avatar/thumbnail.jpg"
+full: "/img/derivatives/simple/197093068_Jerma1_avatar/full.jpg"	
 manifest: "/img/derivatives/iiif/197093068_Jerma1_avatar/manifest.json"
 ---

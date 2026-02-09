@@ -25,7 +25,7 @@ object_type: Screenshot
 order: '4'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/168770509_marsupial_avatar/thumbnail.JPG"
-full: "/img/derivatives/simple/168770509_marsupial_avatar/full.JPG"	
+thumbnail: "/img/derivatives/simple/168770509_marsupial_avatar/thumbnail.jpg"
+full: "/img/derivatives/simple/168770509_marsupial_avatar/full.jpg"	
 manifest: "/img/derivatives/iiif/168770509_marsupial_avatar/manifest.json"
 ---

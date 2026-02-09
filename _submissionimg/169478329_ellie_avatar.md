@@ -18,7 +18,7 @@ object_type: Screenshot
 order: '9'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/169478329_ellie_avatar/thumbnail.JPG"
-full: "/img/derivatives/simple/169478329_ellie_avatar/full.JPG"	
+thumbnail: "/img/derivatives/simple/169478329_ellie_avatar/thumbnail.jpg"
+full: "/img/derivatives/simple/169478329_ellie_avatar/full.jpg"	
 manifest: "/img/derivatives/iiif/169478329_ellie_avatar/manifest.json"
 ---
