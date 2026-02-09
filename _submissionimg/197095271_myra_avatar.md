@@ -12,4 +12,7 @@ object_type: Screenshot
 order: '16'
 layout: submissionimg_item
 collection: submissionimg
+thumbnail: "/img/derivatives/simple/197095271_myra_avatar/thumbnail.png"
+full: "/img/derivatives/simple/197095271_myra_avatar/full.png"	
+manifest: "/img/derivatives/iiif/197095271_myra_avatar/manifest.json"
 ---
