@@ -17,7 +17,7 @@ object_type: Screenshot
 order: '3'
 layout: submissionimg_item
 collection: submissionimg
-thumbnail: "/img/derivatives/simple/168733298_slugcat_avatar/thumbnail.PNG"
-full: "/img/derivatives/simple/168733298_slugcat_avatar/full.PNG"	
+thumbnail: "/img/derivatives/simple/168733298_slugcat_avatar/thumbnail.JPG"
+full: "/img/derivatives/simple/168733298_slugcat_avatar/full.JPG"	
 manifest: "/img/derivatives/iiif/168733298_slugcat_avatar/manifest.json"
 ---
