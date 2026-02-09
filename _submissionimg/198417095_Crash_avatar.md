@@ -20,4 +20,7 @@ object_type: Screenshot
 order: '18'
 layout: submissionimg_item
 collection: submissionimg
+thumbnail: "/img/derivatives/simple/198417095_Crash_avatar/thumbnail.png"
+full: "/img/derivatives/simple/198417095_Crash_avatar/full.png"	
+manifest: "/img/derivatives/iiif/198417095_Crash_avatar/manifest.json"
 ---
