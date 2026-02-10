@@ -14,6 +14,6 @@ order: '11'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/169902886_stokes_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/169902886_stokes_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/169902886_stokes_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/169902886_stokes_avatar/manifest.json"
 ---
