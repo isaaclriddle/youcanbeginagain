@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/169141966_Damascus_avatar.json",
+  "label": "front",
+  "width": 798,
+  "height": 1490,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141966_Damascus_avatar/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/169141966_Damascus_avatar.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141966_Damascus_avatar/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141966_Damascus_avatar",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 399,
+        "height": 745
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/169141966_Damascus_avatar.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

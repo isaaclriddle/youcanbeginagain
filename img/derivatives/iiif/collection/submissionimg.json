@@ -1,0 +1,106 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/submissionimg.json",
+  "@type": "sc:Collection",
+  "label": "submissionimg",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168622805_june_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "168622805_june_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168696082_soren_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "168696082_soren_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168733298_slugcat_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "168733298_slugcat_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168770509_marsupial_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "168770509_marsupial_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168817799_stellaria_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "168817799_stellaria_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168885904_owo_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "168885904_owo_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/169141156_xen_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "169141156_xen_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/169141966_Damascus_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "169141966_Damascus_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/169478329_ellie_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "169478329_ellie_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/169875217_red_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "169875217_red_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/169902886_stokes_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "169902886_stokes_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/170014075_eillurdekarios_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "170014075_eillurdekarios_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/196254184_byleth_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "196254184_byleth_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/196354696_virtue_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "196354696_virtue_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/197093068_Jerma1_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "197093068_Jerma1_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/197095271_myra_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "197095271_myra_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/197544277_quail_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "197544277_quail_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/198417095_Crash_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "198417095_Crash_avatar"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/200052971_bungus_avatar/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "200052971_bungus_avatar"
+    }
+  ]
+}

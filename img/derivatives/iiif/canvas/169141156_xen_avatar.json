@@ -1,0 +1,32 @@
+---
+layout: none
+---
+{
+  "@type": "sc:Canvas",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/169141156_xen_avatar.json",
+  "label": "front",
+  "width": 592,
+  "height": 692,
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141156_xen_avatar/full/250,/0/default.jpg",
+  "images": [
+    {
+      "@type": "oa:Annotation",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/169141156_xen_avatar.json",
+      "motivation": "sc:painting",
+      "resource": {
+        "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141156_xen_avatar/full/full/0/default.jpg",
+        "@type": "dcterms:Image",
+        "format": "image/jpeg",
+        "service": {
+          "@context": "http://iiif.io/api/image/2/context.json",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141156_xen_avatar",
+          "profile": "http://iiif.io/api/image/2/level0.json"
+        },
+        "width": 296,
+        "height": 346
+      },
+      "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/169141156_xen_avatar.json"
+    }
+  ],
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}

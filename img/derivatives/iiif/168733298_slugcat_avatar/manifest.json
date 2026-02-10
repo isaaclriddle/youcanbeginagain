@@ -1,0 +1,50 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/168733298_slugcat_avatar/manifest.json",
+  "@type": "sc:Manifest",
+  "label": "168733298_slugcat_avatar",
+  "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/250,/0/default.jpg",
+  "viewingDirection": "left-to-right",
+  "viewingHint": "individuals",
+  "sequences": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/sequence/168733298_slugcat_avatar.json",
+      "@type": "sc:Sequence",
+      "canvases": [
+        {
+          "@type": "sc:Canvas",
+          "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/168733298_slugcat_avatar.json",
+          "label": "front",
+          "width": 240,
+          "height": 930,
+          "thumbnail": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/250,/0/default.jpg",
+          "images": [
+            {
+              "@type": "oa:Annotation",
+              "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/annotation/168733298_slugcat_avatar.json",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/full/0/default.jpg",
+                "@type": "dcterms:Image",
+                "format": "image/jpeg",
+                "service": {
+                  "@context": "http://iiif.io/api/image/2/context.json",
+                  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar",
+                  "profile": "http://iiif.io/api/image/2/level0.json"
+                },
+                "width": 120,
+                "height": 465
+              },
+              "on": "{{ '/' | absolute_url }}img/derivatives/iiif/canvas/168733298_slugcat_avatar.json"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/full/0/default.jpg",
+  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/1140,/0/default.jpg"
+}
