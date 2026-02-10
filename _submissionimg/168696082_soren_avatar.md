@@ -31,6 +31,6 @@ order: '2'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/168696082_soren_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/168696082_soren_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/168696082_soren_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/168696082_soren_avatar/manifest.json"
 ---
