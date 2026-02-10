@@ -19,6 +19,6 @@ order: '5'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/168817799_stellaria_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/168817799_stellaria_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/168817799_stellaria_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/168817799_stellaria_avatar/manifest.json"
 ---
