@@ -30,6 +30,6 @@ order: '12'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/170014075_eillurdekarios_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/170014075_eillurdekarios_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/170014075_eillurdekarios_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/170014075_eillurdekarios_avatar/manifest.json"
 ---
