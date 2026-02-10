@@ -13,6 +13,6 @@ order: '16'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/197095271_myra_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/197095271_myra_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/197095271_myra_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/197095271_myra_avatar/manifest.json"
 ---
