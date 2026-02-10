@@ -18,6 +18,6 @@ order: '3'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/168733298_slugcat_avatar/thumbnail.jpg"
-fullwidth: "/img/derivatives/simple/168733298_slugcat_avatar/fullwidth.jpg"	
+fullwidth: "/img/derivatives/simple/168733298_slugcat_avatar/fullwidth.jpg"
 manifest: "/img/derivatives/iiif/168733298_slugcat_avatar/manifest.json"
 ---
