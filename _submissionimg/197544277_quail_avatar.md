@@ -36,6 +36,6 @@ order: '17'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/197544277_quail_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/197544277_quail_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/197544277_quail_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/197544277_quail_avatar/manifest.json"
 ---
