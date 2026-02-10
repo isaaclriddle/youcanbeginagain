@@ -21,6 +21,6 @@ order: '18'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/198417095_Crash_avatar/thumbnail.jpg"
-fullwidth: "/img/derivatives/simple/198417095_Crash_avatar/fullwidth.jpg"	
+fullwidth: "/img/derivatives/simple/198417095_Crash_avatar/fullwidth.jpg"
 manifest: "/img/derivatives/iiif/198417095_Crash_avatar/manifest.json"
 ---
