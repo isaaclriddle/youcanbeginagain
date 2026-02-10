@@ -22,6 +22,6 @@ order: '13'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/196254184_byleth_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/196254184_byleth_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/196254184_byleth_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/196254184_byleth_avatar/manifest.json"
 ---
