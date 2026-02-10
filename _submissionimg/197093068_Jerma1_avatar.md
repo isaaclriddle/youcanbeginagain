@@ -17,6 +17,6 @@ order: '15'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/197093068_Jerma1_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/197093068_Jerma1_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/197093068_Jerma1_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/197093068_Jerma1_avatar/manifest.json"
 ---
