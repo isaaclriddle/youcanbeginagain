@@ -5,12 +5,12 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169141156_xen_avatar",
   "protocol": "http://iiif.io/api/image",
-  "width": 296,
-  "height": 346,
+  "width": 1500,
+  "height": 1753,
   "sizes": [
     {
-      "width": 296,
-      "height": 346
+      "width": 1500,
+      "height": 1753
     },
     {
       "width": 250,
@@ -18,7 +18,7 @@ layout: none
     },
     {
       "width": 1140,
-      "height": 1333
+      "height": 1332
     }
   ],
   "profile": [

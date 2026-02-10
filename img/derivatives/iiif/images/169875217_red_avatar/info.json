@@ -5,12 +5,12 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/169875217_red_avatar",
   "protocol": "http://iiif.io/api/image",
-  "width": 101,
-  "height": 190,
+  "width": 1500,
+  "height": 2822,
   "sizes": [
     {
-      "width": 101,
-      "height": 190
+      "width": 1500,
+      "height": 2822
     },
     {
       "width": 250,

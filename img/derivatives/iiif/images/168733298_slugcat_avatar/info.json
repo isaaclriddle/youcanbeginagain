@@ -5,12 +5,12 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar",
   "protocol": "http://iiif.io/api/image",
-  "width": 120,
-  "height": 465,
+  "width": 2000,
+  "height": 7751,
   "sizes": [
     {
-      "width": 120,
-      "height": 465
+      "width": 2000,
+      "height": 7751
     },
     {
       "width": 250,

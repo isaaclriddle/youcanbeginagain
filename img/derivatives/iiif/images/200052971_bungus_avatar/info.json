@@ -5,12 +5,12 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/200052971_bungus_avatar",
   "protocol": "http://iiif.io/api/image",
-  "width": 205,
-  "height": 295,
+  "width": 1500,
+  "height": 2159,
   "sizes": [
     {
-      "width": 205,
-      "height": 295
+      "width": 1500,
+      "height": 2159
     },
     {
       "width": 250,
@@ -18,7 +18,7 @@ layout: none
     },
     {
       "width": 1140,
-      "height": 1640
+      "height": 1641
     }
   ],
   "profile": [

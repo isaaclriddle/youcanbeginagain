@@ -5,12 +5,12 @@ layout: none
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/images/198417095_Crash_avatar",
   "protocol": "http://iiif.io/api/image",
-  "width": 434,
-  "height": 412,
+  "width": 1500,
+  "height": 1424,
   "sizes": [
     {
-      "width": 434,
-      "height": 412
+      "width": 1500,
+      "height": 1424
     },
     {
       "width": 250,
