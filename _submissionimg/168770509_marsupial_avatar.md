@@ -26,6 +26,6 @@ order: '4'
 layout: submissionimg_item
 collection: submissionimg
 thumbnail: "/img/derivatives/simple/168770509_marsupial_avatar/thumbnail.jpg"
-full: "/img/derivatives/simple/168770509_marsupial_avatar/full.jpg"	
+fullwidth: "/img/derivatives/simple/168770509_marsupial_avatar/fullwidth.jpg"	
 manifest: "/img/derivatives/iiif/168770509_marsupial_avatar/manifest.json"
 ---
