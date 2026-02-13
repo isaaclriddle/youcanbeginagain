@@ -12,3 +12,4 @@ The demo site comes with a specific `_include` called `interactive_metadata_tabl
 {% include interactive_metadata_table.html collection=page.collection %}
 
 
+
