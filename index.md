@@ -1,5 +1,5 @@
 ---
-banner: true
+banner:
   collection: submissionimg
   pid: 196254184_byleth_avatar
   y: 50%
@@ -15,6 +15,7 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 
 #### By Item Type
 {% include collection_gallery.html facet_by='object_type' collection='submissionimg' %}
+
 
 
 
