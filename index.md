@@ -1,8 +1,10 @@
 ---
-layout: page
-show_title: false
-banner: true 
-{% include parallax_image.html image='/img/derivatives/simple/168622805_june_avatar/fullwidth.jpg' y='50%' %}
+banner: true
+  collection: submissionimg
+  pid: 196254184_byleth_avatar
+  y: 50%
+  clickable: yes
+  height: '500px'
 ---
 
 __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
@@ -13,6 +15,7 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 
 #### By Item Type
 {% include collection_gallery.html facet_by='object_type' collection='submissionimg' %}
+
 
 
 
