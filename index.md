@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: submissionimg
-  pid: 168622805_june_avatar
+  pid: 196254184_byleth_avatar
   y: 25%
   clickable: yes
   height: '500px'
@@ -17,4 +17,5 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 
 #### By Item Type
 {% include collection_gallery.html facet_by='object_type' collection='submissionimg' %}
+
 
