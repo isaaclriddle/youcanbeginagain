@@ -31,7 +31,6 @@ alt_text: "This avatar is an orc with dark green skin, long straight hair that i
 object_type: Screenshot
 thumbnail: "/img/derivatives/iiif/images/168696082_soren_avatar/full/250,/0/default.jpg"
 fullwidth: "/img/derivatives/simple/168696082_soren_avatar/fullwidth.jpg"
----
 manifest: "/img/derivatives/iiif/168696082_soren_avatar/manifest.json"
 order: '2'
 layout: submissionimg_item
