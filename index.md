@@ -2,8 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
+  collection: submissionimg
+  pid: 168622805_june_avatar
   y: 25%
   clickable: yes
   height: '500px'
@@ -16,4 +16,5 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 ### Browse the Collection
 
 #### By Item Type
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='submissionimg' %}
+
