@@ -62,10 +62,12 @@ search:
         content: false
         fields:
           - label
-          - submitter
-          - submitter_pronoun
-          - game
+          - player_pronoun
           - avatar_pronouns
+          - game
+          - why_this_game
+          - avatar_relationship
+          - alt_text
           - object_type
 
 
@@ -112,3 +114,4 @@ footer:
   logos:
     - img: '/img/logo.png'
 # FIN
+
