@@ -45,6 +45,5 @@ layout: none
       ]
     }
   ],
-  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/full/0/default.jpg",
-  "fullwidth": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/1140,/0/default.jpg"
+  "full": "{{ '/' | absolute_url }}img/derivatives/iiif/images/168733298_slugcat_avatar/full/full/0/default.jpg"
 }
