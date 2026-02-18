@@ -21,11 +21,11 @@ $thumbnail-width: 140px;
 
 /* colors */
 
-$text-color:      #1a1a2e;   
+$text-color:      #1a1a2e;  
 $bg-color:        #ffffff;  
-$neutral:         #5bcfff;  
-$accent-light:    #5bcfff;   
-$accent-dark:     #f5abba;   
+$neutral:         #5bcfff;   
+$accent-light:    #ffffff;   
+$accent-dark:     #f5abba; 
 
 /* viewport sizes */
 
@@ -49,4 +49,5 @@ font & asset import
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
+
 
