@@ -21,11 +21,11 @@ $thumbnail-width: 140px;
 
 /* colors */
 
-$text-color:      #1a1a2e;
-$bg-color:        #5bcfff; /* blue for background */
-$neutral:         #ffd6e0;   /* pink for backgrounds */
-$accent-light:    #ffd6e0;   /* pink for links */
-$accent-dark:     #ffffff;   /* white for hover */
+$text-color:      #1a1a2e;   /* deep navy */
+$bg-color:        #c9f0ff;   /* soft trans blue background */
+$neutral:         #f7c8d8;   /* soft trans pink for cards/sections */
+$accent-light:    #d44d7a;   /* deeper pink for links */
+$accent-dark:     #1a6fa8;   /* deeper blue for hover */
 
 /* viewport sizes */
 
@@ -49,6 +49,7 @@ font & asset import
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
+
 
 
 
