@@ -68,6 +68,12 @@ font & asset import
   color: white;
 }
 
+/* metadata box on item pages */
+.item-label ~ dl {
+  background-color: $neutral;
+  padding: 1rem 1.25rem;
+  border-radius: 6px;
+}
 
 
 
