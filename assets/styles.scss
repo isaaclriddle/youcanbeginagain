@@ -25,7 +25,7 @@ $text-color:      #1a1a2e;
 $bg-color:        #5bcfff; /* blue for background */
 $neutral:         #ffd6e0;   /* pink for backgrounds */
 $accent-light:    #ffd6e0;   /* pink for links */
-$accent-dark:     #ffffff;   /* white for hover */
+$accent-dark:     #ffd6e0;   /* white for hover */
 
 /* viewport sizes */
 
@@ -49,6 +49,7 @@ font & asset import
 
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
+
 
 
 
