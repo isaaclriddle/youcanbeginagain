@@ -50,6 +50,18 @@ font & asset import
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
 
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
+@import 'wax';
+
+/* dropdown menu styling */
+.dropdown-menu {
+  background-color: $neutral;
+}
+
+.dropdown-menu a:hover {
+  background-color: $accent-light;
+  color: white;
+}
 
 
 
