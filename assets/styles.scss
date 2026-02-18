@@ -55,13 +55,19 @@ font & asset import
 
 /* dropdown menu styling */
 .dropdown-menu {
-  background-color: $neutral;
+  background-color: #f7c8d8;
+}
+
+.dropdown-menu a {
+  background-color: #f7c8d8;
+  color: #1a1a2e;
 }
 
 .dropdown-menu a:hover {
-  background-color: $accent-light;
+  background-color: #d44d7a;
   color: white;
 }
+
 
 
 
