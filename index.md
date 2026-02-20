@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  image: "/youcanbeginagain/img/banner.jpg"
+  image: "/img/banner.jpg"
   y: 25%
   clickable: yes
   height: '500px'
