@@ -6,6 +6,7 @@ banner:
   y: 75%
   clickable: yes
   height: '500px'
+  caption: 'Screenshot from <em>Fallout: New Vegas – Dead Money</em> (Obsidian Entertainment, 2010)'
 ---
 
 In a world hostile to those living outside the gender binary, transgender people are faced with an overwhelming pressure to conform to a performance of gender aligned with assigned sex. Searching for an outlet, many trans people find themselves drawn to online environments as a form of escape from the threat of transphobic vitriol and gender-policing in the real world. Video games, then, become critical avenues of research for the ways in which they can assist in the exploration of gender identity.
