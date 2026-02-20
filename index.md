@@ -2,9 +2,8 @@
 layout: page
 show_title: false
 banner:
-  collection: submissionimg
-  pid: 196254184_byleth_avatar
-  y: 50%
+  image: "/youcanbeginagain/youcanbeginagain/img/banner.jpg"
+  y: 25%
   clickable: yes
   height: '500px'
 ---
