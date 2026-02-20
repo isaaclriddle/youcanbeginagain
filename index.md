@@ -5,7 +5,7 @@ banner:
   image: "/img/banner.jpg"
   y: 100%
   clickable: yes
-  height: '500px'
+  height: '650px'
   caption: 'Screenshot from <em>Fallout: New Vegas – Dead Money</em> (Obsidian Entertainment, 2010)'
 ---
 
