@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   image: "/img/banner.jpg"
-  y: 75%
+  y: 85%
   clickable: yes
   height: '500px'
   caption: 'Screenshot from <em>Fallout: New Vegas – Dead Money</em> (Obsidian Entertainment, 2010)'
