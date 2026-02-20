@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   image: "/img/banner.jpg"
-  y: 25%
+  y: 75%
   clickable: yes
   height: '500px'
 ---
