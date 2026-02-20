@@ -121,6 +121,7 @@ You can exit the container at any time with `$ exit`, which will automatically s
 
 # Contributing
 
+
 We welcome contributions to Wax, including bug reports and feature requests (submitted as [Issues](https://github.com/minicomp/wax/issues)), code contributions (submitted as [Pull Requests](https://github.com/minicomp/wax/pulls)), and documentation updates (submitted however!) Not sure where to start? Feel free to get in touch via [GitHub issue](https://github.com/minicomp/wax/issues) or grab an invite to join the conversation on the `#minicomp-wax` channel of the [Code4Lib Slack](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1).
 
 
@@ -129,6 +130,7 @@ We welcome contributions to Wax, including bug reports and feature requests (sub
 
 
  
+
 
 
 
