@@ -97,7 +97,6 @@ __There are a few ways to get started with Wax, depending on your needs.__ Copyi
 
 After the last step, the terminal provides you with a localhost URL for you to see a local copy of the site on your web browser. This is the template site you will make changes to in order to make your own exhibition. For more details, check out the [Minicomp/Wax Wiki](https://minicomp.github.io/wiki/wax/).
 
-
 # Using Docker
 
 To use Wax in a container, make sure you are familiar with Docker and have [Docker installed](https://docs.docker.com/get-docker/).
@@ -131,6 +130,7 @@ We welcome contributions to Wax, including bug reports and feature requests (sub
 
 
  
+
 
 
 
