@@ -25,15 +25,17 @@
 <div class='wax-parallax full-width {% if page.banner %}top-banner{% else %}inline-parallax{% endif %}'>
   <div class='parallax-image' style="{{ style | strip }}" {{ onclick | strip }}></div>
 
-  {% if item.label %}
+ {% if item.label %}
   <div class='parallax-caption'>
     <div class='wax-inline-container'>
       Above: <a href='{{ item.url | absolute_url }}'>{{ item.label }}</a>
     </div>
   </div>
   {% elsif include.caption %}
-<div class='parallax-caption'>
-  <div class='wax-inline-container'>
-    {{ include.caption }}
+  <div class='parallax-caption'>
+    <div class='wax-inline-container'>
+      {{ include.caption }}
+    </div>
+  </div>
   {% endif %}
 </div>
