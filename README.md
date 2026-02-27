@@ -8,6 +8,11 @@
 [![Join the chat the minicomp-wax channel of the Code4Lib Slack](https://img.shields.io/badge/Slack-%23minicomp--wax-brightgreen.svg)](https://docs.google.com/forms/d/e/1FAIpQLSeD77mBp0Y13mFePF8UmDwFrlbxNx3VttEjz_3dgglJeK-Zbg/viewform?c=0&w=1)
 ![License](https://img.shields.io/github/license/minicomp/wax_tasks.svg?color=c6a1e0)
 
+
+
+
+
+
 __Wax is an extensible workflow for producing scholarly exhibitions with minimal computing principles.__<br>
 It's comprised of: __a few Ruby gems__ for processing image data and associated metadata ([wax_tasks](https://github.com/minicomp/wax_tasks/), [wax_iiif](https://github.com/minicomp/wax_iiif/)), __a Jekyll theme__ ([wax_theme](https://github.com/minicomp/wax/)), and (hopefully soon!) a lot of __documentation and recipes__ for creating, deploying, and maintaining digital exhibitions. For now, additional documentation is in the [Minicomp/Wax Wiki](https://minicomp.github.io/wiki/wax/).
 
@@ -131,6 +136,7 @@ We welcome contributions to Wax, including bug reports and feature requests (sub
 
 
  
+
 
 
 
