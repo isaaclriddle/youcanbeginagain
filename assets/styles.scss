@@ -75,6 +75,16 @@ font & asset import
   border-radius: 6px;
 }
 
+/* soft pink content box on terms page only */
+.terms-page .page-content {
+  background-color: $neutral;
+  padding: 2rem;
+  border-radius: 8px;
+  max-width: $max-width;
+  margin: $more-margin auto;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+
 
 
 
