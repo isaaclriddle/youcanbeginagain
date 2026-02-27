@@ -83,6 +83,8 @@ menu:
     sub:
       - label: 'About the Archive'
         link: '/about/'
+      - label: 'Key Terms'
+        link: '/terms/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
