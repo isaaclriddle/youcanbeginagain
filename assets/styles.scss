@@ -50,9 +50,6 @@ font & asset import
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
 
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
-@import 'wax';
-
 /* dropdown menu styling */
 .dropdown-menu {
   background-color: #f7c8d8;
@@ -76,14 +73,13 @@ font & asset import
 }
 
 /* soft pink content box around text */
-.terms-page .page-content {
+#wax-content {
   background-color: $neutral;
   padding: 2rem;
   border-radius: 8px;
-  max-width: $max-width;
-  margin: $more-margin auto;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
+
 
 
 
