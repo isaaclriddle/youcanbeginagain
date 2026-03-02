@@ -8,7 +8,7 @@ title:            'You Can Begin Again'
 description:      'A Trans Video Game Archive'
 url:              'https://isaaclriddle.github.io'
 baseurl:          '/youcanbeginagain'
-copyright:        'Example copyright org, 2023'
+copyright:        'Example copyright org, 2026'
 logo:             '/assets/logo.png'
 default_thumb:    '/assets/default.png'
 
@@ -85,8 +85,6 @@ menu:
         link: '/about/'
       - label: 'Key Terms'
         link: '/terms/'
-      - label: 'Credits'
-        link: '/credits/'
   - label: 'Exhibits'
     sub:
       - label: 'Inline Parallax Image'
@@ -109,11 +107,10 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
-      link: '/credits'
-    - label: 'Wiki'
-      link: 'https://minicomp.github.io/wiki/wax/'
+    - label: 'About'
+      link: '/About'
   logos:
     - img: '/img/logo.png'
 # FIN
+
 
