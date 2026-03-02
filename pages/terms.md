@@ -3,7 +3,7 @@ layout: page
 title: Key Terms
 permalink: /terms/
 ---
-These terms establish a foundation for how  concepts and ideas for transgender, gender-questioning, and gender-diverse individuals are understood. They also define key video game terminology and performativity.
+These terms establish a foundation for how  concepts and ideas for transgender, gender-questioning, and gender-diverse individuals are understood. They also define key video game terminology and the concept of performance.
 
 **Gender and Identity**
 
