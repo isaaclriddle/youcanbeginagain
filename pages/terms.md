@@ -6,7 +6,7 @@ permalink: /terms/
 
 These terms, as defined within the context of the archive, establish a foundation for the ways in which certain concepts and ideas for transgender, gender-questioning, and gender-diverse individuals are understood in this digital archive. They also define key video game terminology and the general concept of performance.
 
-**Gender and Identity:**
+**Gender and Identity**
 
 Gender Identity: a person’s internal sense of their gender (or lack thereof), which may or may not align with their sex coercively assigned at birth.
 
@@ -18,7 +18,7 @@ Gender-Questioning: a person who is questioning or otherwise unsure of whether o
 
 Gender Exploration: the process of learning about your gender identity through things including but not limited to appearance, presentation (in real life or online), “trying out” societal norms and visual indicators of gender and sex, etc. This is a process of self-discovery, and is not limited solely to those who are gender-questioning, transgender, or gender-diverse.
 
-**Video Games and Performance:**
+**Video Games and Performance**
 
 Role-Playing Games: games, both digital and physical, that involve a player or a group of players pretending to be characters that they are not in a fictional setting and storyline. Popular examples include the tabletop (non-digital) roleplaying game, made by Gary Gygax and Dave Arneson, *Dungeons and Dragons*, or the video game *Fallout: New Vegas,* developed by Obsidian Entertainment.
 
