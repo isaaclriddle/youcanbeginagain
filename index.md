@@ -6,7 +6,7 @@ banner:
   y: 50%
   clickable: yes
   height: '650px'
-  caption: 'Art by Thomas Moka'
+  caption: 'Art by <a href="https://www.redbubble.com/people/thomasmoka/shop">Thomas Moka</a>.'
 ---
 
 In a world hostile to those living outside the gender binary, transgender people are faced with an overwhelming pressure to conform to a performance of gender aligned with assigned sex. Searching for an outlet, many trans people find themselves drawn to online environments as a form of escape from the threat of transphobic vitriol and gender-policing in the real world. Video games, then, become critical avenues of research for the ways in which they can assist in the exploration of gender identity.
@@ -18,6 +18,7 @@ You can submit to the archive in a [QuestionPro survey here](https://seeingthetv
 ### Browse the Collection
 
 {% include collection_gallery.html collection='submissionimg' %}
+
 
 
 
