@@ -10,7 +10,7 @@ banner:
 ---
 <style>
 .top-banner .parallax-image {
-  background-size: contain !important;
+  background-size: 60% auto !important;
   background-repeat: no-repeat;
   background-position: center 70%;
   background-color: #c9f0ff;
@@ -26,6 +26,7 @@ You can submit to the archive in a [QuestionPro survey here](https://seeingthetv
 ### Browse the Collection
 
 {% include collection_gallery.html collection='submissionimg' %}
+
 
 
 
