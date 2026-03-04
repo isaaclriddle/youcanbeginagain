@@ -7,7 +7,7 @@ These terms establish a foundation for how  concepts and ideas for transgender, 
 
 **Gender and Identity**
 
-<span style="color: #d44d7a;">**Gender Identity:**</span> a person’s internal sense of their gender (or lack thereof), which may or may not align with their sex coercively assigned at birth.
+<span style="color: #d44d7a;">**Gender Identity:**</span> a person’s internal sense of their gender (or lack thereof), which may or may not align with the sex they were coercively assigned at birth.
 
 <span style="color: #d44d7a;">**Transgender:**</span> a person who does not identify as the sex that they were coercively assigned at birth. This person may or may not be intersex.
 
@@ -15,7 +15,9 @@ These terms establish a foundation for how  concepts and ideas for transgender, 
 
 <span style="color: #d44d7a;">**Gender-Questioning:**</span> a person who is questioning or otherwise unsure of whether or not they identify with the sex that they were coercively assigned at birth.
 
-<span style="color: #d44d7a;">**Gender Exploration:**</span> the process of learning about your gender identity through things including but not limited to appearance, presentation (in real life or online), “trying out” societal norms and visual indicators of gender and sex, etc. This is a process of self-discovery, and is not limited solely to those who are gender-questioning, transgender, or gender-diverse.
+<span style="color: #d44d7a;">**Gender Exploration:**</span> the process of learning about your gender identity through things including but not limited to appearance, presentation (in real life or online), “trying out” societal norms and visual indicators of gender and sex, etc. 
+
+<span style="color: #d44d7a;">**Gender Performance:**</span> as spearheaded by Judith Butler in *Gender Trouble*, it is the act of staging, acting-out, and accomplishing (or attempting to accomplish) a concept, ideal, story, or belief of what a gender "should" look and act like based on hegemonic, cissexist, and misogynistic matrices of power. These performances are policed legislatively and socially.
 
 **Video Games and Performance**
 
@@ -26,5 +28,3 @@ These terms establish a foundation for how  concepts and ideas for transgender, 
 <span style="color: #d44d7a;">**Multi-Player Games:**</span> games that are played with others, either online or alongside them in the same room, where multiple players are able to interact with, change, and "play" the game. This genre of video game typically incorporates some kind of competitive and/or interpersonal element. 
 
 <span style="color: #d44d7a;">**Ludology:**</span> the study of playing games. Within the context of video game studies, this involves an analysis of gameplay systems that allow players to engage and interact with the games themselves; it's how players "play."
-
-<span style="color: #d44d7a;">**Performance:**</span> an act of embodiment or otherwise staging, acting-out, and accomplishing (or attempting to accomplish) a concept, ideal, story, or belief through socio-cultural, presentational, and interpersonal methods. This "acting-out" is, usually, engaged with and moderated by a larger audience, but in the context of the single-player video game, it is not.
