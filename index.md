@@ -9,6 +9,7 @@ banner:
   caption: 'Art by <a href="https://www.redbubble.com/people/thomasmoka/shop">Thomas Moka</a>.'
 ---
 
+
 Searching for an outlet, many trans people find themselves drawn to video games as a form of escape from the threat of transphobic vitriol and gender-policing in the real world. The avatars that they make then become critical avenues of research for the ways in which they can assist in the exploration of gender identity.
 
 <<<<<<< HEAD
@@ -22,6 +23,7 @@ You can submit to the archive in a [QuestionPro survey here](https://seeingthetv
 ### Browse the Collection
 
 {% include collection_gallery.html collection='submissionimg' %}
+
 
 
 
