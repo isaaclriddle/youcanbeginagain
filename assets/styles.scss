@@ -13,13 +13,6 @@ $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 $body-font:       'Open Sans', 'sans-serif';
 $heading-font:    'Open Sans', 'sans-serif';
 
-/*banner*/
-
-.wax-banner {
-  background-position: center 35%;
-}
-
-
 /* Image Size */
 
 $thumbnail-height: 140px;
@@ -56,6 +49,12 @@ font & asset import
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,700&font-display=auto');
 @import 'wax';
 
+/*banner*/
+
+.wax-banner {
+  background-position: center 35%;
+}
+
 /* dropdown menu styling */
 .dropdown-menu {
   background-color: #f7c8d8;
@@ -85,6 +84,7 @@ font & asset import
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
+
 
 
 
