@@ -106,11 +106,12 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/isaaclriddle/youcanbeginagain'
     - label: 'About'
       link: '/About'
   logos:
     - img: '/img/logo.png'
 # FIN
+
 
 
