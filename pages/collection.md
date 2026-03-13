@@ -4,7 +4,11 @@ title: Browse the Collection
 permalink: /collection/
 ---
 
-This site's sample collection comprises a set of objects, each of which is represented by one or more images. The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+By accessing the collection below, I agree to the following:
+1) I understand that this is a pro-trans archive that is representative of the vast and varying experiences of trans-identifying people across cultural, racial, and neurodivergent experiences.
+2) I acknowledge that the archival 'objects' contained within this collection are not true objects, but are representative of deeply-personal and emotionally-entangled experiences of gender and prsentation. I commit to protecting and promoting the humanity of not just the stories contained within this archive, but for all trans people in general.
+3) I will not label or perscribe an identity or an experience on the submissions contained within this archive. I understand that experiences of gender and gender presentation are individualized and that it is not my place to say what someone is or is not.
+4) If I use this data, I will acknowledge the above tenents in writing.
 
 ## All Submissions
 {% include collection_gallery.html collection='submissionimg' %}
