@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   image: "/img/banner.jpg"
-  y: 80%
+  y: 72%
   clickable: yes
   height: '650px'
   caption: 'Art by <a href="https://www.redbubble.com/people/thomasmoka/shop">Thomas Moka</a>.'
@@ -19,6 +19,7 @@ You can submit to the archive in a [QuestionPro survey here](https://seeingthetv
 ### Browse the Collection
 
 {% include collection_gallery.html collection='submissionimg' %}
+
 
 
 
