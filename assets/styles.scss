@@ -13,6 +13,12 @@ $logo: url("{{ '/assets/logo.png' | absolute_url }}");
 $body-font:       'Open Sans', 'sans-serif';
 $heading-font:    'Open Sans', 'sans-serif';
 
+/*banner*/
+
+.wax-banner {
+  background-position: center 35%;
+}
+
 
 /* Image Size */
 
@@ -79,6 +85,7 @@ font & asset import
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
+
 
 
 
