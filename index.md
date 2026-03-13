@@ -9,10 +9,9 @@ banner:
   caption: 'Art by <a href="https://www.redbubble.com/people/thomasmoka/shop">Thomas Moka</a>.'
 ---
 
+In a world hostile to those living outside the gender binary, transgender people have adopted virtual environments as a new means of self-exploration and identity navigation. This project demonstrates the ways in which trans people “play” with gender through video game avatar creation online. 
 
-Searching for an outlet, many trans people find themselves drawn to video games as a form of escape from the threat of transphobic vitriol and gender-policing in the real world. The avatars that they make then become critical avenues of research for the ways in which they can assist in the exploration of gender identity.
-
-This archival project operates under the theoretical umbrellas of queer theory, video game studies, and trans studies to analyze the ways in which gender identity development and exploration interact with the ludic (gameplay) elements of single-player video games. Through an intermingling of Judith Butler’s idea of performative gender in *Gender Trouble*, Sarah Ahmend’s *Queer Phenomenology*, and Uri Miller’s *Embodied Avatars*, this project understands the act of playing video games with a self-made avatar as a co-creationary performance of the self, in which trans gamers utilize their player characters to begin again. 
+Operating under the theoretical umbrellas of queer theory, video game studies, and trans studies, the stories catalogued here demonstrate the connection between the making of oneself in a character creator and one's gender identity development. Through an intermingling of Judith Butler’s idea of performative gender in *Gender Trouble*, Sarah Ahmend’s *Queer Phenomenology*, and Uri Miller’s *Embodied Avatars*, this project understands the act of playing video games with a self-made avatar as a co-creationary performance of the self, in which trans gamers utilize their player characters to begin again. 
 
 You can submit to the archive in a [QuestionPro survey here](https://seeingthetvglow.vt.domains/seeing-the-tv-glow/external?link=https%3A%2F%2Fvirginiatech.questionpro.com%2Fseeingthetvglowvideogamedigitalarchivesubmissions&prev=https%3A%2F%2Fseeingthetvglow.vt.domains%2Fseeing-the-tv-glow%2Fturning-on-the-tv).
 
