@@ -17,6 +17,8 @@ These terms establish a foundation for how  concepts and ideas for transgender, 
 
 <span style="color: #d44d7a;">**Gender Exploration:**</span> the process of learning about your gender identity through things including but not limited to appearance, presentation (in real life or online), “trying out” societal norms and visual indicators of gender and sex, etc. 
 
+<span style="color: #d44d7a;">**Gender Dysphoria:**</span> an innate feeling of 'wrongness' spawned by a mismatch between  one's identity and the gender that they were coercively-assigned gender at birth that can trigger dissociation, depression, anxiety, and suicidality.
+
 <span style="color: #d44d7a;">**Gender Performance:**</span> as spearheaded by Judith Butler in *Gender Trouble*, it is the act of staging, acting-out, and accomplishing (or attempting to accomplish) a concept, ideal, story, or belief of what a gender "should" look and act like based on hegemonic, cissexist, and misogynistic matrices of power. These performances are policed legislatively and socially.
 
 **Video Games and Performance**
