@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   image: "/img/banner.jpg"
-  y: 75%
+  y: 77%
   clickable: yes
   height: '650px'
   caption: 'Art by <a href="https://www.redbubble.com/people/thomasmoka/shop">Thomas Moka</a>.'
