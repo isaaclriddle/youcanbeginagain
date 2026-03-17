@@ -26,7 +26,7 @@ This archive has received tremendous support from faculty members at Virginia Te
 
 [^1]: K.J Rawson, “The Trans Rhetorical Practice of Archive Building,” in *The Routledge Handbook of Queer Rhetoric*, ed. Jacqueline Rhodes and Jonathan Alexander (London: Routledge, 2022), 78.
 
-[^2]: *Black Transgender Archive.* Accessed 12 March 2025. https://blacktransarchive.com/. 
+[^2]: *Black Transgender Archive.* Accessed 12 March 2025. [https://blacktransarchive.com/](https://blacktransarchive.com/). 
 
 
 
