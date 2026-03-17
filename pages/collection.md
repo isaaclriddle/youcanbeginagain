@@ -12,7 +12,7 @@ By accessing the collection below, I agree to the following:
 
 3. I will not label or perscribe an identity or an experience on the submissions contained within this archive. I understand that experiences of gender and gender presentation are individualized and that it is not my place to say what someone is or is not.
 
-4. If I use this data, I will acknowledge the above tenents in writing.
+4. If I use this data, I will acknowledge the above tenets in writing.
 
 ## All Submissions
 {% include collection_gallery.html collection='submissionimg' %}
