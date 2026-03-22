@@ -9,7 +9,9 @@ These terms establish a foundation for how  concepts and ideas for transgender, 
 
 <span style="color: #d44d7a;">**Gender Identity:**</span> a person’s internal sense of their gender (or lack thereof), which may or may not align with the sex they were coercively assigned at birth.
 
-<span style="color: #d44d7a;">**Transgender:**</span> a person who does not identify as the sex that they were coercively assigned at birth. This person may or may not be intersex.
+<span style="color: #d44d7a;">**Transgender:**</span> a person who does not identify as the sex that they were coercively assigned at birth.
+
+<span style="color: #d44d7a;">**Cisgender:**</span>  a person who does identify as the sex that they were coercively assigned at birth. 
 
 <span style="color: #d44d7a;">**Gender-Diverse:**</span> an umbrella label that encompasses transgender, intersex, and gender-questioning individuals. It also includes Indigenous-specific gender identities.
 
