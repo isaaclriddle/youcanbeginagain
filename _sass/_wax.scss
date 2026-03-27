@@ -550,4 +550,22 @@ search box
   height: 80px;
 }
 
+// Fix banner on mobile
+@media (max-width: 768px) {
+  .wax-parallax {
+    .parallax-image {
+      background-attachment: scroll;
+      background-position: center center !important; 
+      height: 300px; // shorter height on small screens (?)
+      max-height: 45vh;
+    }
+    .parallax-caption {
+      width: 100%;
+      box-sizing: border-box;
+      padding: $less-margin 1rem;
+      text-align: center;
+      font-size: 0.85rem;
+    }
+  }
+}
 
