@@ -13,7 +13,7 @@ Future iterations of this archive aspire to draw elements of the embodied presen
 
 **Acknowledgements**
 
-This archive has received tremendous support from faculty members at Virginia Tech such as [Dr. Travis Webster](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/travis-webster.html), [Dr. Jesse Sadler](https://www.jessesadler.com/about), and [Dr. Tyechia Thompson](https://experts.vt.edu/6889-tyechia-thompson).
+This archive has received tremendous support from faculty members at Virginia Tech such as [Dr. Travis Webster](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/travis-webster.html), [Dr. Justine Greene](https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/justin-russell-greene.html), [Dr. Shoshana Knapp] (https://liberalarts.vt.edu/departments-and-schools/department-of-english/faculty/shoshana-knapp.html),[Dr. Jesse Sadler](https://www.jessesadler.com/about), and [Dr. Tyechia Thompson](https://experts.vt.edu/6889-tyechia-thompson).
 
 
 **Credits**
