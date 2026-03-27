@@ -88,9 +88,9 @@ menu:
   - label: 'Theory'
     sub:
       - label: 'Inline Parallax Image'
-        link: '/theory/a/'
+        link: '/exhibits/a/'
       - label: 'Inline Image References'
-        link: '/theory/b/'
+        link: '/exhibits/b/'
   - label: 'Exhibits'
     link: '/collection/'
   - label: 'Search'
