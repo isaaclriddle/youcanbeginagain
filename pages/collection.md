@@ -3,23 +3,11 @@ layout: page
 title: Browse the Collection
 permalink: /collection/
 ---
+Place your hand onto the screen of your phone of your computer. Watch as the black screen turns to color as red and green and blue and pink and white peek out at the edges of your palm. The screen is warm. 
 
-By accessing the collection below, I agree to the following:
+Press play. Lose yourself in a new world. Know that it will be scary. You will want to pull away, and you will, but you will be left changed anyways. You can pretend that it has not left an impact on you, but to plug your ears is to let yourself die slowly. 
 
-1. I understand that this is a pro-trans archive that is representative of the vast and varying experiences of trans-identifying people across cultural, racial, and neurodivergent experiences.
+Choosing to play will feel like a death too. But, if you decide to press through the screen, if you allow yourself to play, you will be both killed and remade; you will be granted the ability to create yourself; and despite it all, you will live again. 
 
-2. I acknowledge that the archival 'objects' contained within this collection are not true objects, but are representative of deeply-personal and emotionally-entangled experiences of gender and prsentation. I commit to protecting and promoting the humanity of not just the stories contained within this archive, but for all trans people in general.
-
-3. I will not label or perscribe an identity or an experience on the submissions contained within this archive. I understand that experiences of gender and gender presentation are individualized and that it is not my place to say what someone is or is not.
-
-4. If I use this data, I will acknowledge the above tenets in writing.
-
-## All Submissions
+## Choose Your Character
 {% include collection_gallery.html collection='submissionimg' %}
-
-## By Exhibit 
-
-### Baldur's Gate III
-{% include collection_gallery.html facet_by="game" only="Baldur's Gate III. Larian Studios. 2023. Windows PC." collection="submissionimg" %}
-### Stardew Valley
-{% include collection_gallery.html facet_by='game' only="Stardew Valley. Designed by Eric Barone. ConcernedApe. 2016. PlayStation 4." collection='submissionimg' %}
