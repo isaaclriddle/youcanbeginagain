@@ -13,11 +13,6 @@ The avatars and stories contained in this archive illustrate the variety of ways
 
 You can submit to the archive in a [survey here](https://virginiatech.questionpro.com/youcanbeginagaindigitalarchivesubmissions).
 
-### Browse the Collection
-
-{% include collection_gallery.html collection='submissionimg' %}
-
-
 
 
 
