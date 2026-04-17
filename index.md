@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 show_title: false
 banner:
   image: "/img/banner.jpg"
