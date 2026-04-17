@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Choose Your Character
+title: Collection
 permalink: /collection/
 ---
 By accessing the collection below, I agree to the following:
