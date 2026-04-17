@@ -85,8 +85,6 @@ menu:
         link: '/about/'
       - label: 'Key Terms'
         link: '/terms/'
-      - label: 'Before Accessing the Archive'
-        link: '/corpus/'
   - label: 'Theory'
     sub:
       - label: 'Inline Parallax Image'
