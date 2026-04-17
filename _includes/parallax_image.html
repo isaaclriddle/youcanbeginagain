@@ -8,6 +8,7 @@
 {%- capture style -%}
   background-image: url('{{ image | absolute_url }}');
   background-position: 0% {{ include.y | default: '15%' }};
+  background-size: {{ include.size | default: 'cover' }};
   {% if include.clickable %}
   cursor: pointer;
   {% endif %}
