@@ -14,7 +14,7 @@ By accessing the collection below, I agree to the following:
 4. If I use this data, I will acknowledge the above tenets in writing.
 
 ## All Submissions
-## Choose Your Character
+
 {% include collection_gallery.html collection='submissionimg' %}
 
 ## By Exhibit 
