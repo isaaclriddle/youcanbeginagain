@@ -85,7 +85,7 @@ menu:
         link: '/about/'
       - label: 'Key Terms'
         link: '/terms/'
-  - label: 'Theoretical Explorations'
+  - label: 'Theory'
     sub:
       - label: '*Fallout: New Vegas*'
         link: '/exhibits/FNV/'
