@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Collection
 permalink: /collection/
 ---
 By accessing the collection below, I agree to the following:
