@@ -1,6 +1,5 @@
 ---
-layout: exhibit
-publish_date: 2026-5-6
+layout: page
 permalink: /exhibits/FNV/
 ---
 ## Ain’t That a Kick in the Head: A Theoretical Reorientation through *Fallout: New Vegas*
