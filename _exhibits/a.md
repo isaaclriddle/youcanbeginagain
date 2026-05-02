@@ -10,7 +10,7 @@ This paper is an exploration of one of the games housed within this archive, *Fa
 
 {% include parallax_image.html image='/img/exhibitbanner.jpg' y='50%' clickable='true' %}
 
-The paper will be uploaded here after after the defense draft is revised and submitted.[1]
+The paper will be uploaded here after after the defense draft is revised and submitted.[^1]
 
 ---
 
