@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: ""
+show_title: false
 permalink: /exhibits/FNV/
 ---
 ## Ain’t That a Kick in the Head: A Theoretical Reorientation through *Fallout: New Vegas*
